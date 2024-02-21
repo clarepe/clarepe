@@ -55,7 +55,7 @@
 ###Tabela de proficiência
 
 Idioma  |  Nivel
---------|----------
+:------:|:-------:
 Inglês  |  Intermediário (B1)
 Espanhol | Básico
 
