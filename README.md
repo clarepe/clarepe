@@ -1,7 +1,7 @@
 
  # Claudiney Clayton de Oliveira
 
- profissonal de tecnologia generalista aluno do **Senai Ford<ENTER>**
+ tec
 
 ## estou aprendendo 
  * HTML
