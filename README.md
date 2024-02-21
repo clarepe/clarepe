@@ -1,7 +1,7 @@
 
  # Claudiney Clayton de Oliveira
 ![imagem dev](https://img.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704585600&semt=ais)
->Costumo sempre dizer:
+>Costumo sempre dizer:  
 
 >>"quem espera no **_Senhor_**, sempre alcança"
 
